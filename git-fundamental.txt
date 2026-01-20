@@ -1,0 +1,8 @@
+basic commands
+•	Git architecture and concepts (working directory, staging, repository)
+•	Repository initialization and cloning
+•	Basic operations: add, commit, push, pull, fetch
+•	Branching strategies and branch management
+•	Merging, rebasing, and conflict resolution
+•	Git tags and releases
+•	Git stash and cherry-pick
